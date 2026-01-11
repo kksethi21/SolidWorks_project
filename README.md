@@ -1,4 +1,4 @@
-# SolidWorks_projec
+# SolidWorks_project
 
 # LEGO Fire Truck – SolidWorks Mechanical Assembly
 
